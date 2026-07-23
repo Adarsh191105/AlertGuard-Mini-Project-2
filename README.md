@@ -2,18 +2,6 @@
 
 # 🛡️ AlertGuard
 ### AI-Powered Driver Drowsiness Detection & Safety Monitoring System
-
-*Because the best accident is the one that never happens.*
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FaceMesh-00A98F?style=for-the-badge&logo=google&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-SMS_Alerts-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 🎯 What Is AlertGuard?
