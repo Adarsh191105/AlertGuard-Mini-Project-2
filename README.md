@@ -92,59 +92,6 @@ flowchart TD
 | 📝 **Logs** | Timestamped records, export support |
 
 ---
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-`Python` `Flask` `OpenCV` `MediaPipe` `HTML/CSS/JS` `Twilio API` `Google Maps API`
-
-</div>
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/alertguard.git
-cd alertguard
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-Create a `.env` file:
-```env
-TWILIO_ACCOUNT_SID=your_sid
-TWILIO_AUTH_TOKEN=your_token
-TWILIO_PHONE_NUMBER=your_number
-GOOGLE_MAPS_API_KEY=your_key
-```
-
-Run it:
-```bash
-python app.py
-```
-
-Then open **`http://localhost:5000`** 🎉
-
----
-
-## 📸 Demo
-
-<div align="center">
-
-<img src="assets/screenshots/login.png" width="45%" alt="Login"/> <img src="assets/screenshots/dashboard.png" width="45%" alt="Dashboard"/>
-
-<img src="assets/screenshots/map.png" width="45%" alt="Live Location"/> <img src="assets/screenshots/sms_alert.png" width="45%" alt="SMS Alert"/>
-
-</div>
-
-> 💡 **Want your own screenshots here?** Create `assets/screenshots/` in your repo, drop your images in, and reference them like `assets/screenshots/dashboard.png` — GitHub renders them automatically once pushed. No repo yet? Drag an image into the GitHub web editor or a draft issue to get an instant hosted URL.
-
----
-
 ## 🧪 Testing
 
 ✅ Unit testing &nbsp; ✅ Integration testing &nbsp; ✅ Functional testing &nbsp; ✅ Performance testing &nbsp; ✅ Scenario-based simulation (active / drowsy / sleeping)
